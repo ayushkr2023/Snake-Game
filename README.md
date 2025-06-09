@@ -32,6 +32,3 @@ pip install pygame
 	•	Collision detection with walls
 	•	Instant reset on game over
 	•	Easy to understand, beginner-friendly code
-
-##  Screenshot
-
